@@ -1,0 +1,30 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+.env/
+
+# Archivos de configuración de Jupyter
+.ipynb_checkpoints
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de logs
+*.log
+
+# Archivos de datos
+*.csv
+*.xlsx
+*.json
+*.sqlite
+data/
+
+# No incluir el archivo requirements.txt
